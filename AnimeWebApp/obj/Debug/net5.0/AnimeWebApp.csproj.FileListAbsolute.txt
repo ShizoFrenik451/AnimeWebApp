@@ -46,3 +46,5 @@
 /Users/rustamhajrullin/RiderProjects/AnimeWebApp/AnimeWebApp/bin/Debug/net5.0/Humanizer.dll
 /Users/rustamhajrullin/RiderProjects/AnimeWebApp/AnimeWebApp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
 /Users/rustamhajrullin/RiderProjects/AnimeWebApp/AnimeWebApp/obj/Debug/net5.0/staticwebassets/AnimeWebApp.StaticWebAssets.xml
+/Users/rustamhajrullin/RiderProjects/AnimeWebApp/AnimeWebApp/obj/Debug/net5.0/Razor/Views/Home/Login.cshtml.g.cs
+/Users/rustamhajrullin/RiderProjects/AnimeWebApp/AnimeWebApp/obj/Debug/net5.0/Razor/Views/Home/Registration.cshtml.g.cs

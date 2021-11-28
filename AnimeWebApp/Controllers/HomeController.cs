@@ -24,5 +24,15 @@ namespace AnimeWebApp.Controllers
         {
             return View();
         }
+        
+        public IActionResult Registration()
+        {
+            return View();
+        }
+        
+        public IActionResult Login()
+        {
+            return View();
+        }
     }
 }
