@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nIqYogZV2no9OoYftZQtJCOZdPyZxyOoIqF0Vv1HYANkqwSPhwurRYqPLtyn3YiiqYcXJ/GAdr92OCrr4ls6CQ==",
+  "dgSpecHash": "ARBCsw/ggefE+JFIvS3PtOVbZXdbT4FO34aWuocLrLx//42RcFLC4wFXafZX8f9IWySChTmEjyNZhHKtiW0ikA==",
   "success": true,
-  "projectFilePath": "/Users/rustamhajrullin/RiderProjects/AnimeWebApp/AnimeWebApp/AnimeWebApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\UserPC\\source\\repos\\AnimeWebApp\\AnimeWebApp\\AnimeWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

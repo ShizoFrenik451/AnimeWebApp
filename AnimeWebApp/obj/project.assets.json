@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/rustamhajrullin/.nuget/packages/": {}
+    "C:\\Users\\UserPC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rustamhajrullin/RiderProjects/AnimeWebApp/AnimeWebApp/AnimeWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\UserPC\\Source\\Repos\\AnimeWebApp\\AnimeWebApp\\AnimeWebApp.csproj",
       "projectName": "AnimeWebApp",
-      "projectPath": "/Users/rustamhajrullin/RiderProjects/AnimeWebApp/AnimeWebApp/AnimeWebApp.csproj",
-      "packagesPath": "/Users/rustamhajrullin/.nuget/packages/",
-      "outputPath": "/Users/rustamhajrullin/RiderProjects/AnimeWebApp/AnimeWebApp/obj/",
+      "projectPath": "C:\\Users\\UserPC\\Source\\Repos\\AnimeWebApp\\AnimeWebApp\\AnimeWebApp.csproj",
+      "packagesPath": "C:\\Users\\UserPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\UserPC\\Source\\Repos\\AnimeWebApp\\AnimeWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rustamhajrullin/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\UserPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -53,6 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.12, 5.0.12]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -61,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
