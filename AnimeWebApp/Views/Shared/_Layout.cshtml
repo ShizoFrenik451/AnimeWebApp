@@ -13,6 +13,15 @@
 <body>
   <div class=top>
     <div class=container>
+    if(User.IsAuthenticated)
+    {
+        <div class="profile-block">
+        <div class="profile" href="/profile">ПРОФИЛЬ</div>
+        <div class="exit" href="#">ВЫЙТИ</div>
+      </div>
+    }
+    else 
+    {
       <div class=auth-block>
         <div class=login>
           <div class="dropdown-login">
@@ -37,7 +46,7 @@
         <a class=register href="#"> РЕГИСТРАЦИЯ
         </a>
       </div>
-    </div>
+    </div>}
   </div>
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark ">
     <div class=row>
@@ -70,7 +79,7 @@
           <li class="nav-item">
             <a class="nav-link" href="#">ВАША СТАТИСТИКА</a>
           </li>
-          <div class="form-group col-lg-8">
+          <div class="form-group col-lg-6">
             <input type="search" class="form-control " name="" id="" aria-describedby="helpId"
               placeholder="НАЙТИ АНИМЕ ПО НАЗВАНИЮ">
             <button class="search_btn">
@@ -95,10 +104,6 @@
       <p>Надеюсь на это</p>
     </div>
   </footer>
-
-
-
-
 <script src="~/lib/jquery/dist/jquery.min.js"></script>
 <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 <script src="~/js/site.js" asp-append-version="true"></script>
